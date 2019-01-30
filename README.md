@@ -1,1 +1,1 @@
-# Hexadec Design
+# Hexadec Project
